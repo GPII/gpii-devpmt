@@ -50,7 +50,7 @@
         "recursive-copy": "2.0.9",
         "testem": "2.10.0",
         "url": "0.11.0",
-        "eslint": "3.14.1",
+        "eslint": "6.6.0",
         "eslint-config-fluid": "1.1.0",
         "fluid-grunt-eslint": "18.1.2",
         "fluid-grunt-json5lint": "1.0.0",
